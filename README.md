@@ -1,4 +1,4 @@
-# MoleDwave
+# MolePAKQ
 Moleculer simulation using a Dwave 2000q
 
 Predictions/Goals
